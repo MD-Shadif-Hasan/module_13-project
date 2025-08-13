@@ -141,15 +141,15 @@ project/
 
 ### Registration Page
 
-![Register Page](/module_13-project/screenshot/Screenshot_1.png)
+![Register Page](/screenshot/Screenshot_1.png)
 
 ### Login Page
 
-![Login Page](/module_13-project/screenshot/Screenshot_2.png)
+![Login Page](/screenshot/Screenshot_2.png)
 
 ### Dashboard
 
-![Dashboard](/module_13-project/screenshot/Screenshot_3.png)
+![Dashboard](/screenshot/Screenshot_3.png)
 
 ---
 
